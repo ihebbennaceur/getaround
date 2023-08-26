@@ -1,0 +1,15 @@
+artifact_uri: file:///home/app/mlruns/429382865962618385/32f92426d726431b9414f85db7e9e791/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '429382865962618385'
+lifecycle_stage: active
+run_id: 32f92426d726431b9414f85db7e9e791
+run_name: blushing-gnat-823
+run_uuid: 32f92426d726431b9414f85db7e9e791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692899053306
+status: 1
+tags: []
+user_id: unknown
